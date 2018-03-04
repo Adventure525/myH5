@@ -1,4 +1,4 @@
-<img  src="0./images/02.jpg">
+<img  src="./images/02.jpg">
 
                                                    行路难
                                                     李白
